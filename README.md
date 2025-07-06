@@ -18,10 +18,17 @@ An interactive AI-powered web application that predicts **sales** using a machin
 
 
 ---
-
 ## 🛠️ Installation
 
 1. 📦 Clone the repo:
 ```bash
-git clone https://github.com/subratapaul/ai-sales-dashboard.git
-cd ai-sales-dashboard
+git clone https://github.com/subratapaul99/Ecommerceproject.git
+cd Ecommerceproject
+
+
+OR if someone prefers GitHub CLI:
+
+```bash
+gh repo clone subratapaul99/Ecommerceproject
+cd Ecommerceproject
+
