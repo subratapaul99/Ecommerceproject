@@ -16,6 +16,14 @@ An interactive AI-powered web application that predicts **sales** using a machin
 
 ## 📁 Project Structure
 
+Ecommerceproject/
+├── streamlit_app.py # Streamlit dashboard file
+├── VS code project.ipynb # Jupyter notebook for model training
+├── Sample - Superstore.csv # Dataset used for training & EDA
+├── assets/ # Optional images/icons
+├── .gitignore # Prevents large/cache files from being pushed
+└── README.md # Project description (this file)
+
 
 ---
 ## 🛠️ Installation
