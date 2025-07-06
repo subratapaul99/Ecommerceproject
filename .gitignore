@@ -1,0 +1,9 @@
+
+*.pkl
+
+.ipynb_checkpoints/
+
+__pycache__/
+*.pyc
+
+.streamlit/config.toml
